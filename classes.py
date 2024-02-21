@@ -42,4 +42,4 @@ square = area_square(5)
 print("This is the area of the square: ", square.area())
 
 sphere = volume_sphere(7)
-print("The area of the sphere is: ", sphere.volume())
+print("The volume of the sphere is: ", sphere.volume())
